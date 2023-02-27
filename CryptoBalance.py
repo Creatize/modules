@@ -23,8 +23,8 @@ class CryptoBalanceMod(loader.Module):
 	@loader.command()
 	async def bcrypto(self, message: Message):
 		'''- check your balance in @CryptoBot'''
-		balance = ((await self.check_balance(cryptobot, message))[18:]))
-		await utils.answer(message, self.strings('balance').format(cryptobot, balance)
+		balance = ((await self.check_balance(cryptobot, message))[18:])
+		await utils.answer(message, self.strings('balance').format(cryptobot, balance))
 	@loader.command()
 	async def bton(self, message: Message):
 		'''- check your balance in @tonRocketBot'''
