@@ -5,7 +5,7 @@
 #   \/_____/   \/_/ /_/   \/_____/   \/_/\/_/     \/_/   \/_/   \/_____/   \/_____/ 
 
 # Licensed under the GNU GPLv3
-# requires: math sympy mpmath
+# requires: sympy==1.11.1 mpmath==1.3.0
 # meta developer: @visionavtr, @daffmaybe
 # special thanks to @daffmaybe
 
