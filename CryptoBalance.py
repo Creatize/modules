@@ -1,4 +1,4 @@
-# meta developer: @visionavtr / @toxicuse, @daashhkk
+# meta developer: @visionavtr / @toxicuse
 from .. import loader, utils
 from telethon.tl.types import Message
 cryptobot = 'CryptoBot'
