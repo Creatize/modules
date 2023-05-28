@@ -48,7 +48,7 @@ hikka_security:
   forever: "forever"
   user: "fucker"
   chat: "chat"
-  command: 
+  command:
   module: "module"
   inline: "inline cmd"
   day: "day"
@@ -297,8 +297,8 @@ hikka_config:
   builtin: "🛰 Corefuck"
   external: "🛸 Others"
   libraries: "📦 Fucklibs"
-  _cmd_doc_config: "Conf mods"
-  _cmd_doc_fconfig: "<module_name> <property_name> <config_value> - set the config value for the module"
+  _cmd_doc_config: "- conf mods"
+  _cmd_doc_fconfig: "<module_name> <property_name> <config_value> - set the conf value for the mod"
   _cls_doc: "Interactive confer for Hikka userbot"
 
 inline_stuff:
@@ -307,7 +307,7 @@ inline_stuff:
   bot_username_occupied: "<emoji document_id=5210952531676504517>🚫</emoji> <b>This fucking botname is already occupied</b>"
   bot_updated: "<emoji document_id=6318792204118656433>🎉</emoji> <b>Username changed. Reboot userbot to apply changes</b>"
   this_is_hikka: "🌘 <b>Hi! This is Hikka — powerful modular Koffagram userbot. You can install it to your account!</b>\n\n<b>🌍 <a href=\"https://github.com/hikaraitama/Hikka\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/hikka_talks\">Support chat</a></b>"
-  _cmd_doc_ch_hikka_bot: "<username> - Change your Hikka inline bot username"
+  _cmd_doc_ch_hikka_bot: "<username> - change your Hikka inline bot username"
   _cls_doc: "Provides support for inline stuff"
 
 test:
@@ -317,10 +317,10 @@ test:
   logs_caption: "<emoji document_id=5188377234380954537>🌘</emoji> <b>Hikka logs with verbosity</b> <code>{}</code>\n\n<emoji document_id=6318902906900711458>⚪️</emoji> <b>Version: {}.{}.{}</b>{}"
   suspend_invalid_time: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Invalid time to suspend</b>"
   suspended: "<emoji document_id=5452023368054216810>🥶</emoji> <b>bot suspended for</b> <code>{}</code> <b>seconds</b>"
-  results_ping: "<emoji document_id=5431449001532594346>⚡️</emoji> <b>your fucking ping:</b> <code>{}</code> <b>ms</b>\n<emoji document_id=5445284980978621387>🚀</emoji> <b>your uptime: {}</b>"
+  results_ping: "<emoji document_id=5431449001532594346>⚡️</emoji> <b>Your fucking ping:</b> <code>{}</code> <b>ms</b>\n<emoji document_id=5445284980978621387>🚀</emoji> <b>Your uptime: {}</b>"
   ping_hint: "<emoji document_id=5472146462362048818>💡</emoji> <i>If fucking ping is high, it means what your server is bad</i>"
-  confidential: "⚠️ <b>Log level</b> <code>{}</code> <b>may reveal your nudes, be careful</b>"
-  confidential_text: "⚠️ <b>Log level</b> <code>{0}</code> <b>may reveal your nudes, be careful</b>\n<b>Type</b> <code>.logs {0} force_insecure</code> <b>to ignore this fucking warning</b>"
+  confidential: "⚠️ <b>Log level</b> <code>{}</code> <b>May reveal your nudes, be careful</b>"
+  confidential_text: "⚠️ <b>Log level</b> <code>{0}</code> <b>May reveal your nudes, be careful</b>\n<b>Type</b> <code>.logs {0} force_insecure</code> <b>to ignore this fucking warning</b>"
   choose_loglevel: "💁‍♂️ <b>Choose log level</b>"
   bad_module: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Module not found</b>"
   debugging_enabled: "<emoji document_id=5332533929020761310>✅</emoji> <b>Debugging mode enabled for module</b> <code>{0}</code>\n<i>Go to fucking directory named `debug_modules`, edit file named `{0}.py` and see changes in real time</i>"
@@ -328,12 +328,12 @@ test:
   send_anyway: "📤 Send nudes"
   cancel: "🚫 i'm scared"
   logs_cleared: "🗑 <b>Logs cleared</b>"
-  _cmd_doc_clearlogs: "Clear logs"
-  _cmd_doc_debugmod: "[module] - For developers: Open module for fucking\nYou will be able to track changes in koffing real-time"
-  _cmd_doc_dump: "Use <code>.e r</code> instead of this cmd"
-  _cmd_doc_logs: "<level> - Dump logs"
-  _cmd_doc_ping: "Test your fucking ping"
-  _cmd_doc_suspend: "<time> - Suspends the bot for N seconds"
+  _cmd_doc_clearlogs: "clear logs"
+  _cmd_doc_debugmod: "[module] - for developers: Open module for fucking\nYou will be able to track changes in koffing real-time"
+  _cmd_doc_dump: "- use `.e r` instead of this cmd"
+  _cmd_doc_logs: "<level> - dump logs"
+  _cmd_doc_ping: "- tests your fucking ping"
+  _cmd_doc_suspend: "<time> - suspends the bot for N seconds"
   _cls_doc: "Perform operations based on userbot self-testing"
 
 unit_heta:
