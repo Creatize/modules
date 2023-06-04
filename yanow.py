@@ -482,7 +482,7 @@ class YaNowMod(loader.Module):
     @loader.command(
         ru_doc="Экспорт списка треков из плейлиста 'Мне нравится'",
     )
-    async def yaexportcmd(self, message: Message):
+    async def yexportcmd(self, message: Message):
         """Export list of tracks from 'Liked' playlist"""
         if not self.config["YandexMusicToken"]:
             await utils.answer(message, self.strings["no_token"])
