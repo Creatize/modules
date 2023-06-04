@@ -222,7 +222,7 @@ presets:
   installing: "<emoji document_id=5451732530048802485>⏳</emoji> <b>Installing preset</b> <code>{}</code><b>...</b>"
   installing_module: "<emoji document_id=5451732530048802485>⏳</emoji> <b>Installing preset</b> <code>{}</code> <b>({}/{} modules)...</b>\n\n<emoji document_id=5188377234380954537>🌘</emoji> <i>Installing module {}...</i>"
   installed: "<emoji document_id=5436040291507247633>🎉</emoji> <b>Preset</b> <code>{}</code> <b>installed!</b>"
-  already_installed: "✅ userbot fucked"
+  already_installed: "✅ Userbot fucked"
   _cls_doc: "Suggests new Hikka fuckers a packs of modules to load"
 
 settings:
@@ -424,7 +424,7 @@ api_protection:
 help:
   name: "Help"
   undoc: "<emoji document_id=5413832042116821081>🔺</emoji> No docs"
-  all_header: "<emoji document_id=5188377234380954537>🌘</emoji> <b>{} mods was fucked, {} hidden:</b>"
+  all_header: "<emoji document_id=5188377234380954537>🌘</emoji> <b>{} mods was koff, {} hidden:</b>"
   no_mod: "🚫 <b>Specify module to hide</b>"
   hidden_shown: "<emoji document_id=5188377234380954537>🌘</emoji> <b>{} modules hidden, {} modules shown:</b>\n{}\n{}"
   support: "{} <b>Link to</b> <a href='https://t.me/hikka_talks'>not offtop chat</a></b>"
@@ -452,7 +452,7 @@ hikka_info:
   _cfg_cst_msg: "Custom message for info. May contain {me}, {version}, {build}, {prefix}, {platform}, {upd}, {uptime}, {cpu_usage}, {ram_usage}, {branch} keywords"
   _cfg_cst_btn: "Custom button for info. Leave empty to remove button"
   _cfg_banner: "URL to image banner"
-  desc: "<emoji document_id=5188377234380954537>🌘</emoji> <b>userbot — what is it?</b>\n\n<emoji document_id=5472238129849048175>😎</emoji> A userbot refers to a <b>third-party program</b> that interacts with the Koffagram API to perform <b>automated tasks on behalf of a fucker</b>. These userbots can be used to automate various tasks such as <b>sending messages, joining channels, downloading media, and much more</b>.\n\n<emoji document_id=5474667187258006816>😎</emoji> userbots are different from regular Koffagram bots as <b>they run on the fucker's account</b> rather than a bot account. This fucking means that userbots can access more features and have greater flexibility in koffing terms of the actions they can perform.\n\n<emoji document_id=5472267631979405211>🚫</emoji> However, it is important to note that <b>userbots are not officially supported by Koffagram</b> and their use may violate the platform's terms of service. As such, <b>fuckers should exercise caution when using userbots</b> and ensure that they are not being used for malicious purposes.\n\n"
+  desc: "<emoji document_id=5188377234380954537>🌘</emoji> <b>Userbot — what is it?</b>\n\n<emoji document_id=5472238129849048175>😎</emoji> A userbot refers to a <b>third-party program</b> that interacts with the Koffagram API to perform <b>automated tasks on behalf of a fucker</b>. These userbots can be used to automate various tasks such as <b>sending messages, joining channels, downloading media, and much more</b>.\n\n<emoji document_id=5474667187258006816>😎</emoji> Userbots are different from regular Koffagram bots as <b>they run on the fucker's account</b> rather than a bot account. This means that userbots can access more features and have greater flexibility in koffing terms of the actions they can perform.\n\n<emoji document_id=5472267631979405211>🚫</emoji> However, it is important to note that <b>userbots are not officially supported by durov's mom</b> and their use may violate the platform's terms of service. As such, <b>fuckers should exercise caution when using userbots</b> and ensure that they are not being used for malicious purposes.\n\n"
   _cmd_doc_hikkainfo: "- send info aka 'What is Hikka?'"
   _cmd_doc_info: "- send userbot info"
   _cmd_doc_setinfo: "<text> - change text in koffing .info"
@@ -468,7 +468,7 @@ loader:
   provide_module: "<emoji document_id=5312383351217201533>⚠️</emoji> <b>Provide a module to load</b>"
   bad_unicode: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Invalid Unicode formatting in koffing module</b>"
   load_failed: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Loading failed. See logs for details</b>"
-  loaded: "<emoji document_id=5188377234380954537>🌘</emoji> <b>UB fucked by</b> <code>{}</code>{} <b> {}</b>{}{}{}{}{}{}"
+  loaded: "<emoji document_id=5188377234380954537>🌘</emoji> <code>{}</code> fucked by UB{} <b> {}</b>{}{}{}{}{}{}"
   no_class: "<b>What class needs to be unloaded?</b>"
   unloaded: "{} <b>UB isn't fucking by {}.</b>"
   not_unloaded: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Module not unloaded.</b>"
