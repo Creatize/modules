@@ -16,6 +16,7 @@ __version__ = (1, 0, 1)
 
 
 import logging
+import os
 from asyncio import sleep
 
 import aiohttp
