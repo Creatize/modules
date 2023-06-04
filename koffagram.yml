@@ -470,7 +470,7 @@ loader:
   load_failed: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Loading failed. See logs for details</b>"
   loaded: "<emoji document_id=5188377234380954537>🌘</emoji> <code>{}</code> fucked by UB{} <b> {}</b>{}{}{}{}{}{}"
   no_class: "<b>What class needs to be unloaded?</b>"
-  unloaded: "{} <b>UB isn't fucking by {}.</b>"
+  unloaded: "{} <b>{} stopped fucking UB.</b>"
   not_unloaded: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Module not unloaded.</b>"
   requirements_failed: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Requirements installation failed</b>"
   requirements_failed_termux: "<emoji document_id=5407025283456835913>🕶</emoji> <b>Requirements installation failed</b>\n<b>The most common reason is that fucking localhost doesn't support many libraries. Don't report it as bug, this can't be solved.</b>"
