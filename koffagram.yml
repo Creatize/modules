@@ -468,7 +468,7 @@ loader:
   provide_module: "<emoji document_id=5312383351217201533>⚠️</emoji> <b>Provide a module to load</b>"
   bad_unicode: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Invalid Unicode formatting in koffing module</b>"
   load_failed: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Loading failed. See logs for details</b>"
-  loaded: "<emoji document_id=5188377234380954537>🌘</emoji> <code>{}</code> fucked by UB{} <b> {}</b>{}{}{}{}{}{}"
+  loaded: "<emoji document_id=5188377234380954537>🌘</emoji> <code>{}</code> fucked UB{} <b> {}</b>{}{}{}{}{}{}"
   no_class: "<b>What class needs to be unloaded?</b>"
   unloaded: "{} <b>{} stopped fucking UB.</b>"
   not_unloaded: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Module not unloaded.</b>"
